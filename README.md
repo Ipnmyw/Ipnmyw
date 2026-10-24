@@ -4,7 +4,7 @@
 </p>
 
 # 💫 About Me:
-Hi, I'm Ifan Mulyawan, usually called Ipan.<br><br>I'm a Software Development as an Individual.<br><br>My biggest interest is robotics, especially IoT. I enjoy exploring how hardware, software, and connected systems can be integrated into things that are useful in everyday life.<br><br>I also explore web development and UI/UX design, mostly because I enjoy understanding both sides of technology: how something works and how someone experiences it. 
+Hi, I'm Ipan ******, usually called Ipan.<br><br>I'm a Software Development as an Individual.<br><br>My biggest interest is robotics, especially IoT. I enjoy exploring how hardware, software, and connected systems can be integrated into things that are useful in everyday life.<br><br>I also explore web development and UI/UX design, mostly because I enjoy understanding both sides of technology: how something works and how someone experiences it. 
 
 
 ## 🌐 Socials:
